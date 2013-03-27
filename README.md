@@ -1,6 +1,13 @@
 sugarcrm-codeigniter-sample-rest-case-portal
 ============================================
 
+=====================
+   Additional Info
+=====================
+
+Blog Article about CRM, SugarCRM and ways to customise Sugar: http://enricosimonetti.com/2013/03/27/crm-sugarcrm-and-a-restful-integration/
+
+
 ==============
    SugarCRM
 ==============
